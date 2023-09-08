@@ -1,3 +1,6 @@
+.container {
+    animation: trasitionIn 0.85s;
+}
 
 @keyframes trasitionIn {
     from {
@@ -12,6 +15,3 @@
     
 }
 
-body {
-    animation: transitionIn 0.75s;
-}
