@@ -1,5 +1,5 @@
 const modal_overlay = document.querySelector('.modal-overlay');
-const cards = document.querySelectorAll('.card_resumo')
+const cards = document.querySelectorAll('.card')
 
 document.querySelector('.material-icons').addEventListener('click', function () {
 
